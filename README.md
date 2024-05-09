@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/23005529/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139842207/c1ad9bca-226d-415a-93ab-86fbaa258dc8)
+
+### Name: ALIYA SHEEMA
+### Register Number: 212223230011
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
